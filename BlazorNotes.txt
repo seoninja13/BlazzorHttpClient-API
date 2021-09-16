@@ -1,0 +1,4 @@
+https://www.metaweather.com/api/location/2486340/2021/09/14/
+
+--------------------------------------------------
+C:\Users\IvoD\source\repos\BlazzorHttpClient\BlazzorHttpClient.sln
